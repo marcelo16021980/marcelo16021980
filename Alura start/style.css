@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgba(48, 80, 80, 1);
+    text-align: center;
+    color: white;
+}
+header{
+    border-bottom: 1px rgba(129, 129, 129, 1) solid;
+}
+#nome-usuario{
+    font-weight: bold;
+}
+
+h2{
+    color:rgba(255, 165, 0, 1);
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+h1{
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.paragrafo-italico{
+    font-style: italic;
+}
+footer{
+    border-top:1px rgba(129, 129, 129, 1) solid;
+  width: 1fr;
+}
